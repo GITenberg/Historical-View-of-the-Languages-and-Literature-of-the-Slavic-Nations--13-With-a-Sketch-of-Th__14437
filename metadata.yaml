@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5522
     wikipedia: http://de.wikipedia.org/wiki/Therese_Albertine_Louise_von_Jacob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14437#Historical-View-of-the-Languages-and-Literature-of-the-Slavic-Nations--13-With-a-Sketch-of-Th_
 gutenberg_issued: '2004-12-24'
 gutenberg_type: Text
 identifiers:
